@@ -1,0 +1,12 @@
+C:\SOURCE\DeadLetter\Parser\bin\Debug\Parser.exe.config
+C:\SOURCE\DeadLetter\Parser\bin\Debug\Parser.exe
+C:\SOURCE\DeadLetter\Parser\bin\Debug\Parser.pdb
+C:\SOURCE\DeadLetter\Parser\bin\Debug\Common.dll
+C:\SOURCE\DeadLetter\Parser\bin\Debug\EasyNetQ.dll
+C:\SOURCE\DeadLetter\Parser\bin\Debug\RabbitMQ.Client.dll
+C:\SOURCE\DeadLetter\Parser\bin\Debug\Common.pdb
+C:\SOURCE\DeadLetter\Parser\bin\Debug\EasyNetQ.xml
+C:\SOURCE\DeadLetter\Parser\bin\Debug\RabbitMQ.Client.xml
+C:\SOURCE\DeadLetter\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\SOURCE\DeadLetter\Parser\obj\Debug\Parser.exe
+C:\SOURCE\DeadLetter\Parser\obj\Debug\Parser.pdb
