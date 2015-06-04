@@ -12,9 +12,9 @@ namespace Sender
             c.Register<AdvancedBusFactory>();
             c.Register<QueueFactory>();
             c.Register<MessageHandler>();
-            c.Register<Sender>();
+            c.Register<SenderConsumer>();
 
-            var sender = c.Resolve<Sender>();
+            var sender = c.Resolve<SenderConsumer>();
 
             sender.Send();
         }
