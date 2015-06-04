@@ -1,9 +1,0 @@
-C:\SOURCE\DeadLetter\Common\bin\Debug\Common.dll
-C:\SOURCE\DeadLetter\Common\bin\Debug\Common.pdb
-C:\SOURCE\DeadLetter\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
-C:\SOURCE\DeadLetter\Common\obj\Debug\Common.dll
-C:\SOURCE\DeadLetter\Common\obj\Debug\Common.pdb
-C:\SOURCE\DeadLetter\Common\bin\Debug\EasyNetQ.dll
-C:\SOURCE\DeadLetter\Common\bin\Debug\RabbitMQ.Client.dll
-C:\SOURCE\DeadLetter\Common\bin\Debug\EasyNetQ.xml
-C:\SOURCE\DeadLetter\Common\bin\Debug\RabbitMQ.Client.xml
